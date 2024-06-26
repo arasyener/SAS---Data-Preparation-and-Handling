@@ -1,1 +1,1 @@
-
+When specifying a reasonable range for numeric values isn't possible, data cleaning tools can help. These methods often analyze data distributions to identify outliers.If your data approximates a normal distribution or is symmetrical, you can use its statistical properties to detect errors. 
